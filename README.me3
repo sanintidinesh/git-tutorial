@@ -9,4 +9,9 @@ def sub(n):
     y=10
     return n=x-y
 sub(n)
+def mul(n):
+   x=10
+   y=15
+   n=25
+mul(n)
 
